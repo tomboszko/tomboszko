@@ -33,31 +33,31 @@ I'm excited to grow in the tech world and make a positive impact through my work
 Contributed to various business transformation projects, focusing on UML, BPMN, and project management methodologies.
 
 ### 🎤 Comedian | **Freelance**  
-*2016-05-01 to 2023-08-31 | Charleroi | Culture*  
+*2016 - 2023 | Charleroi | Culture*  
 Performed stand-up comedy and stage acting for diverse audiences, honing my public speaking and improvisation skills.
 
 ### 🎨 Stage Designer | **Freelance**  
-*2019-05-01 to 2023-08-31 | Charleroi | Culture*  
+*2019 - 2023 | Charleroi | Culture*  
 Designed creative and functional stages for theatrical productions and events.
 
 ### 🛠️ IT Support | **Diversiscènes Asbl**  
-*2022-05-01 to 2023-08-31 | Charleroi | Culture*  
+*2022 - 2023 | Charleroi | Culture*  
 Provided technical support for events, including hardware setup, network management, and troubleshooting.
 
 ### 🏢 Supply Chain Analyst | **Proximus SA**  
-*2009-05-01 to 2018-08-31 | Courcelles | Telecom/Logistics*  
+*2009 - 2018 | Courcelles | Telecom/Logistics*  
 Analyzed and solved complex IT infrastructure issues to maintain business continuity.
 
 ### 🏗️ Slate Roofer | **Servido SPRL**  
-*2005-01-01 to 2009-12-31 | Fleurus | Construction*  
+*2005 - 2009 | Fleurus | Construction*  
 Specialized in installing and repairing slate roofs on various commercial and residential projects.
 
 ### 🎭 Stage Manager | **Le Vaudeville**  
-*2003-09-01 to 2006-08-30 | Charleroi | Culture*  
+*2003 - 2006 | Charleroi | Culture*  
 Managed stage operations, coordinated with performers, and oversaw live shows.
 
 ### 🏠 Roofer | **R.A.M. Toitures**  
-*2001-06-01 to 2005-08-30 | Charleroi | Construction*  
+*2001 - 2005 | Charleroi | Construction*  
 Performed roofing installations and repairs on commercial and residential buildings.
 
 ---
@@ -106,19 +106,19 @@ These unique abilities allow me to approach situations creatively and adapt to n
 ## 🎓 Education
 
 ### Digital Transformation Consultant | **TechnoFuturTIC Charleroi**  
-*2024-08-01 to 2024-11-18 | Certification in Project Development*
+*2024 | Certification in Project Development*
 
 ### Web Developer | **Becode Charleroi**  
-*2023-08-22 to 2024-03-08 | Certification in Web Development*
+*2023 - 2024 | Certification in Web Development*
 
 ### Stage Manager | **CC Courcelles**  
-*2001-01-01 to 2003-06-01 | Professional Certification*
+*2001 - 2003 | Professional Certification*
 
 ### CE2D | **ITM Morlanwelz**  
-*1999-09-01 to 2001-06-30 | Electro Mechanic*
+*1991 - 2001 | Electro Mechanic*
 
 ### CESI | **ARPAC Pont-à-celles**  
-*1994-09-01 to 1998-06-30 | Science*
+*1994 - 1998 | Science*
 
 ---
 
