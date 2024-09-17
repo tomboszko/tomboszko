@@ -129,3 +129,12 @@ These unique abilities allow me to approach situations creatively and adapt to n
 - **Hobbies**: Astronomy, Finance, Golf, Art, Mushrooms, Origami, Nature  
 - **Volunteering**: In an Art Exposition Gallery, as a bartender
 
+--- 
+
+## 👨‍💻 GitHub
+
+You can explore my Github projects, where I focus on **web development**, **automation**, and **blockchain technology**. ther's a lot of Exercices Repo from Becode and ''testing things''.
+
+⬇️⬇️⬇️⬇️
+
+
