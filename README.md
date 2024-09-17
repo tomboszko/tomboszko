@@ -1,4 +1,4 @@
-# Thomas Gomrée
+<!-- # Thomas Gomrée
 
 **Digital Transformation Consultant | Business Analyst**  
 *IT Project Management*
