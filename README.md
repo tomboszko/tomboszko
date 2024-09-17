@@ -1,7 +1,5 @@
 # Thomas Gomrée
 
-![Profile Picture](![Tom](Image1.jpg)) 
-
 **Digital Transformation Consultant | Business Analyst**  
 *IT Project Management*  
 
