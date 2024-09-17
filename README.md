@@ -70,8 +70,6 @@ This section highlights a **specific selection of skills** particularly relevant
 
 If you’d like to explore my full range of skills, I invite you to check out **ThomasSkillsBot** on Telegram, which provides a detailed view of my capabilities. [ThomasSkillsBot](https://t.me/ThomasSkillsbot)
 
----
-
 ## 🚀 Hard Skills
 
 These are the technical skills that I apply to manage complex projects, implement technology solutions, and lead teams efficiently:
@@ -84,8 +82,6 @@ These are the technical skills that I apply to manage complex projects, implemen
 - **Power BI & Tableau**: Advanced skills in data visualization with Power BI and Tableau.
 - **Blockchain & API Development**: Experience in Solidity smart contract development and API integration.
 
----
-
 ## 💡 Soft Skills
 
 These interpersonal skills help me lead teams, communicate with stakeholders, and solve problems effectively:
@@ -96,8 +92,6 @@ These interpersonal skills help me lead teams, communicate with stakeholders, an
 - **Critical Thinking**: Skilled in analyzing situations and making strategic decisions.
 - **Problem Solving**: Effective in resolving complex IT project challenges.
 - **Time Management**: Proficient in managing time and meeting deadlines under pressure.
-
----
 
 ## 🎨 Mad Skills
 
