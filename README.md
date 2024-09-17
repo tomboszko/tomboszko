@@ -9,7 +9,7 @@
 - **LinkedIn**: [thomas-gomree](https://www.linkedin.com/in/thomas-gomree/)
 - **GitHub**: [ThomasGomree](https://github.com/tomboszko)
 - **Email**: tgomree@hotmail.com
-- **My CV in a Telegram Bot**: [ThomasSkillsBot](https://t.me/ThomasSkillsbot)
+- **My Resume in a Telegram Bot**: [ThomasSkillsBot](https://t.me/ThomasSkillsbot)
 - **My BPMN Resume**: [BPMN CV](https://modeler.camunda.io/share/5d412c1d-dcff-4bc0-a708-d64c75ef9cf0)
 - **Phone**: +32 486 847 150
 - **Location**: Charleroi, Belgium
